@@ -1,2 +1,7 @@
+# bool_functions.py
+
 def return_true():
-    return False
+    """
+    Function that always returns True.
+    """
+    return True
